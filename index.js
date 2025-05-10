@@ -1,4 +1,4 @@
-const { Client } = require('aternos-js');
+const { Client } = require('aternos');
 const mineflayer = require('mineflayer');
 const fs = require('fs');
 

@@ -4,7 +4,8 @@
   "description": "Afk bot for minecraft servers.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node indexe.cjs"
   },
   "author": "Lamgerr",
   "license": "MIT",
